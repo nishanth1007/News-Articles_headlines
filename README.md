@@ -8,7 +8,11 @@ Use this link to download the the word2vec pre-trained Google News corpus (3 bil
 "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"
 
 The goals of the project were:
--Preprocess/clean the text data, using NLTK
--Using the word2vec feature to create word and title embeddings, then visualize them as clusters using t-SNE
--Visualize the relationship between title sentiment and article popularity
--Attempt to predict article popularity from the embeddings and other available features
+-Preprocess/clean the text data, using NLTK.
+
+-Using the word2vec feature to create word and title embeddings, then visualize them as clusters using t-SNE.
+
+-Visualize the relationship between title sentiment and article popularity.
+
+-Attempt to predict article popularity from the embeddings and other available features.
+
